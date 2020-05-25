@@ -100,4 +100,6 @@ tee <<-EOF
 ↘️  Start AnyTime By Typing >>> pg [or] pgblitz
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+
 EOF
+sudo pgblitz
